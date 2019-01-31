@@ -11,7 +11,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: Georia, serif;
+  font-family: Georgia, serif;
 }
 
 *, *::before, *::after {
@@ -24,7 +24,7 @@ html {
 }
 
 a {
-  color :currentcolor;
+  color: currentColor;
 }
 
 .card {
